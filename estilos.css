@@ -1,0 +1,43 @@
+*{
+    background-color: azure;
+}
+#img {
+    width: 100px;
+    height: 100px;
+    background-image: url('icon/barra.png');
+    background-size: cover;
+    background-position: center;
+  }
+#imagen {
+    width: 400px;
+    height: 100px;
+    background-image: url('icon/barra.png');
+    background-size: cover;
+    background-position: right top;
+  }
+
+  
+  #imagen2 {
+    width: 100px;
+    height: 100px;
+    background-image: url('icon/iniciar-sesion.png');
+    background-size: cover;
+    background-position: center;
+  }
+  #imagen3 {
+    width: 100px;
+    height: 100px;
+    background-image: url('icon/carrito.png');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #imgn2{
+
+    height: 316px;
+  }
+
+  #imgn5{
+
+    height: 260px;
+  }
